@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.0.0",
-    "axios": "^1.2.1",
+    "axios": "^1.7.4",
     "firebase": "^9.23.0",
     "firebase-composables": "^1.0.0-alpha.33",
     "pinia": "^2.0.11",
